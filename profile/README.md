@@ -9,7 +9,9 @@ Anyone (a person, a group, an institution) can keep an archive of their document
 
 - **Specification:** [OpenSheaf 0.1](https://opensheaf.org/opensheaf-specification-0.1.html), a draft, and its [FAQ](https://opensheaf.org/faq.html)
 - **Site:** [opensheaf.org](https://opensheaf.org)
-- **Source and discussion:** [opensheaf/opensheaf](https://github.com/opensheaf/opensheaf): open an [issue](https://github.com/opensheaf/opensheaf/issues) for questions and problems, or a pull request to propose changes
+- **Repositories:**
+  - [opensheaf/opensheaf](https://github.com/opensheaf/opensheaf): the specification, its JSON Schemas and the site; the place to discuss them: open an [issue](https://github.com/opensheaf/opensheaf/issues) for questions and problems, or a pull request to propose changes
+  - [opensheaf/opensheaf-py](https://github.com/opensheaf/opensheaf-py): the Python tools for OpenSheaf archives, the `osheaf` command (deposit, collections, verification, Zenodo and arXiv), the reference implementation of the specification
 - **First archive:** [Papers of Massimiliano Gubinelli](https://mgubi.org/papers/)
 
 **Status:** version 0.1 is a draft, still being finalised; it may change in incompatible ways before version 1.0.
