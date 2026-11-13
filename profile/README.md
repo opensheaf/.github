@@ -14,6 +14,12 @@ Anyone (a person, a group, an institution) can keep an archive of their document
   - [opensheaf/opensheaf-py](https://github.com/opensheaf/opensheaf-py): the Python tools for OpenSheaf archives, the `osheaf` command (deposit, collections, verification, Zenodo and arXiv), the reference implementation of the specification
 - **First archive:** [Papers of Massimiliano Gubinelli](https://mgubi.org/papers/)
 
+**Getting started:**
+
+- **Your own archive of papers:** [opensheaf/archive-template](https://github.com/opensheaf/archive-template) ([use this template](https://github.com/opensheaf/archive-template/generate)): sources, every version, a website on GitHub Pages and DOIs, maintained with `osheaf`.
+- **A curated collection** of papers from any archives, such as a seminar's reading list or an overlay journal: [opensheaf/collection-template](https://github.com/opensheaf/collection-template) ([use this template](https://github.com/opensheaf/collection-template/generate)).
+- **Examples:** [opensheaf/example-papers](https://github.com/opensheaf/example-papers), sample papers (TeXmacs, arXiv and Zenodo) for trying the tools.
+
 **Status:** version 0.1 is a draft, still being finalised; it may change in incompatible ways before version 1.0.
 
 The specification and FAQ are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), the JSON Schemas are dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), and the tools are under the GNU GPL, version 3 or later.
